@@ -4,3 +4,5 @@ Scratch repo used to drive real pull request scenarios (CI, reviews, comments, c
 Its PRs are captured as GraphQL snapshots by `scripts/capture.sh` in https://github.com/drodimin/pr-relay.
 Nothing here is real code: `src/*.go` are numbered comment lines used for conflicts and inline comments.
 The template lives in pr-relay under `scripts/fixture-repo/`.
+f0
+f1
