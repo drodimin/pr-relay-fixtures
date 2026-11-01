@@ -6,3 +6,4 @@ Nothing here is real code: `src/*.go` are numbered comment lines used for confli
 The template lives in pr-relay under `scripts/fixture-repo/`.
 p0
 p1
+p2
