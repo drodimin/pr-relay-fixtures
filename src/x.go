@@ -6,7 +6,7 @@ package src
 // x line 02
 // x line 03
 // x line 04
-// x line 05 main
+// x line 05 resolved
 // x line 06
 // x line 07
 // x line 08
